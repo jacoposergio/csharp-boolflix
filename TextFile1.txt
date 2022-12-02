@@ -1,1 +1,31 @@
-﻿
+﻿Casi d'uso
+	1. Scelta profilo
+            a. L'utente registrato accede al sito
+            b. Il sistema presenta 4 profili di accesso + la sezione kids
+            c. Se l'utente non è il possessore dell'account potrà fare il logout
+            d. Selezionando un profilo, l'utente potrà accedere alla home del sito
+	2. Impostazioni account
+             a. Il sistema presenta una serie di opzioni per la configurazione del profilo:
+                 -modifica email
+                 -modifica password
+                 -gestisci accesso e dispositivi
+                 -modifica piano di pagamento
+                      è possibile scegliere 4 piano di abbonamento:
+                          -base con pubblicità
+                          -base
+                          -standard
+                          -premium
+
+                      l'utente sceglie il metodo di pagamento:
+                           -paypal
+                           -carta di credito
+                           -carta regalo
+         3. Sfoglia catalogo
+             a. Il sistema presenta una homepage ricca di features per la scelta e la riproduzione di contenuti:
+                 -scelta film
+                 -scelta serie Tv
+                 *altre opzioni da definire
+                
+
+
+l'utente può sfogliare il catalogo
